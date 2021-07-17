@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Muawia Saeed</h1>
-<h3 align="center">A passionate frontend developer from Sudan</h3>
+<h3 align="center">A passionate Flutter developer from Sudan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moawia94&label=Profile%20views&color=0e75b6&style=flat" alt="moawia94" /> </p>
 
@@ -27,7 +27,5 @@
 <p><a href="https://www.buymeacoffee.com/Muawia"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Muawia" /></a></p><br><br>
 
 </br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=moawia94&show_icons=true&locale=en&layout=compact" alt="moawia94" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=moawia94&show_icons=true&locale=en" alt="moawia94" /></p>
 
