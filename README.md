@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Muawia Saeed</h1>
-<h3 align="center">A passionate Flutter developer from Sudan</h3>
+<h3 align="center">A passionate Flutter and laravel developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moawia94&label=Profile%20views&color=0e75b6&style=flat" alt="moawia94" /> </p>
 
