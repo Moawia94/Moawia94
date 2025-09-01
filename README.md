@@ -8,8 +8,6 @@
 
 - 👨‍💻 All of my projects are available at [https://znap.link/Muawia](https://znap.link/Muawia)
 
-- 📄 Know about my experiences [https://znap.link/Muawia](https://znap.link/Muawia)
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,7 +22,7 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Muawia"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Muawia" /></a></p><br><br>
-<p><a href="https://www.paypal.com/paypalme/muawias"> <img align="left" src="https://metropolitanarts.org/wp-content/uploads/2020/05/Paypal-Logo.jpg" height="50" width="210" alt="Muawia" /></a></p><br><br>
+<p><a href="https://www.paypal.com/paypalme/muawias"> <img align="left" src="https://www.paypalobjects.com/webstatic/mktg/logo/pp_cc_mark_74x46.jpg" height="50" width="210" alt="Muawia" /></a></p><br><br>
 
 
 
