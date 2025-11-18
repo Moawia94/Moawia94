@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **SwiftUI**
 
-- 👨‍💻 All of my projects are available at [https://muawia.net)
+- 👨‍💻 All of my projects are available at https://muawia.net
 
 
 <h3 align="left">Connect with me:</h3>
