@@ -21,9 +21,9 @@ _Building mobile apps and full-stack web experiences._
 
 I'm a developer focused on **cross-platform mobile** with Flutter and **backend-heavy web** with PHP/Laravel — APIs, admin panels (Filament), and pragmatic UI with Tailwind and modern tooling. I care about clear architecture, maintainable code, and shipping products people actually use.
 
-- **Currently exploring:** SwiftUI  
-- **Portfolio / site:** [muawia.net](https://muawia.net)  
-- **Pinned repos:** highlight your best Flutter & Laravel work so visitors see them first.
+- **Currently exploring:** SwiftUI
+- **Portfolio / site:** [muawia.net](https://muawia.net)
+      <!-- - **Pinned repos:** highlight your best Flutter & Laravel work so visitors see them first. -->
 
 ---
 
@@ -32,8 +32,8 @@ I'm a developer focused on **cross-platform mobile** with Flutter and **backend-
 <p align="center">
   <!-- Skill Icons: crisp SVG grid (theme=light reads well on GitHub’s light README background) -->
   <img
-    src="https://skillicons.dev/icons?i=flutter,dart,swift,laravel,livewire,php,mysql,html,css,tailwind,firebase,git,postman,vscode&perline=8&theme=light"
-    alt="Flutter, Dart, Swift, Laravel, Livewire, PHP, MySQL, HTML, CSS, Tailwind CSS, Firebase, Git, Postman, VS Code"
+    src="https://skillicons.dev/icons?i=flutter,dart,swift,laravel,aws,php,mysql,html,css,tailwind,AlpineJS,firebase,git,postman,vscode&perline=8&theme=light"
+    alt="Flutter, Dart, Swift, Laravel, PHP, MySQL, HTML, CSS, Tailwind CSS, Firebase, Git, Postman, VS Code"
   />
 </p>
 
@@ -53,7 +53,6 @@ I'm a developer focused on **cross-platform mobile** with Flutter and **backend-
 <p align="center">
   <img src="https://github-readme-streak-stats.demolab.com/?user=moawia94&theme=tokyonight&hide_border=true" alt="Git streak" />
 </p> -->
-
 
 ---
 
@@ -83,7 +82,3 @@ If my open-source work helped you, you can say thanks here:
     <img src="https://img.shields.io/badge/PayPal-Support-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal" />
   </a>
 </p>
-
-
-
-
