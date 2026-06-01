@@ -32,8 +32,8 @@ I'm a developer focused on **cross-platform mobile** with Flutter and **backend-
 <p align="center">
   <!-- Skill Icons: crisp SVG grid (theme=light reads well on GitHub’s light README background) -->
   <img
-    src="https://skillicons.dev/icons?i=flutter,dart,swift,laravel,aws,php,mysql,html,css,tailwind,AlpineJS,firebase,git,postman,vscode&perline=8&theme=light"
-    alt="Flutter, Dart, Swift, Laravel, PHP, MySQL, HTML, CSS, Tailwind CSS,  Git, Postman, VS Code"
+    src="https://skillicons.dev/icons?i=flutter,dart,swift,laravel,aws,php,mysql,html,css,tailwind,firebase,git,postman,vscode&perline=8&theme=light"
+    alt="Flutter, Dart, Swift, Laravel, PHP, MySQL, HTML, CSS, Tailwind CSS,Firebase,  Git, Postman, VS Code"
   />
 </p>
 
