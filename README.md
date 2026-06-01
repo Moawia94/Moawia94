@@ -33,7 +33,7 @@ I'm a developer focused on **cross-platform mobile** with Flutter and **backend-
   <!-- Skill Icons: crisp SVG grid (theme=light reads well on GitHub’s light README background) -->
   <img
     src="https://skillicons.dev/icons?i=flutter,dart,swift,laravel,aws,php,mysql,html,css,tailwind,AlpineJS,firebase,git,postman,vscode&perline=8&theme=light"
-    alt="Flutter, Dart, Swift, Laravel, PHP, MySQL, HTML, CSS, Tailwind CSS, Firebase, Git, Postman, VS Code"
+    alt="Flutter, Dart, Swift, Laravel, PHP, MySQL, HTML, CSS, Tailwind CSS,  Git, Postman, VS Code"
   />
 </p>
 
@@ -41,13 +41,13 @@ I'm a developer focused on **cross-platform mobile** with Flutter and **backend-
 
 ---
 
-### GitHub stats
+<!-- ### GitHub stats -->
 
 <!-- Official stats domain sometimes returns 503 when its Vercel deployment is paused; this mirror serves the same API shape. -->
-<p align="center">
+<!-- <p align="center">
   <img height="165" src="https://readme-stats-github.vercel.app/api?username=moawia94&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400&rank_icon=github" alt="Muawia's GitHub stats" />
   <img height="165" src="https://readme-stats-github.vercel.app/api/top-langs/?username=moawia94&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" alt="Top languages" />
-</p>
+</p> -->
 
  <!-- Optional: contribution streak (can be slow to load; uncomment if you want it)
 <p align="center">
